@@ -9,5 +9,12 @@ public class Main {
         System.out.println(summe);
         System.out.println("Summe: " + summe);
 
+        double d = 2.6;
+        System.out.println(Math.round(d));
+
+        int e = Integer.MAX_VALUE + 1;
+        System.out.println(e);
+
+
     }
 }
