@@ -1,4 +1,4 @@
-package com.company;
+package task1day2;
 
 public class Main {
 
